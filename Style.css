@@ -1,0 +1,20 @@
+body {
+    background-color: #33202A;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Container {
+    background-color: #E5F9E0;
+    padding: 20px;
+    display: flex;
+}
+
+#Container > .block {
+    padding: 20px;
+}
+
+.block {
+    color: crimson;
+}
